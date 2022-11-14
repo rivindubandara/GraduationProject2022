@@ -1,0 +1,8 @@
+﻿Row Labels,Sum of Acidification Potential Total (kgSO2eq),Sum of Eutrophication Potential Total (kgNeq),Sum of Global Warming Potential Total (kgCO2eq),Sum of Ozone Depletion Potential Total (CFC-11eq),Sum of Smog Formation Potential Total (kgO3eq),Sum of Primary Energy Demand Total (MJ),Sum of Non-renewable Energy Demand Total (MJ),Sum of Renewable Energy Demand Total (MJ),Sum of Mass Total (kg),GWP
+Concrete,"8,313.27",326.92,"1,982,329.65",3.14E-07,"115,378.31","15,444,715.33","14,275,826.71","1,156,916.50","6,153,315.06",59.91794541
+Metals,664.24,38.67,"138,126.75",1.32E-02,"10,199.02","2,089,942.92","1,869,497.35","220,732.67","110,784.75",4.175022588
+Wood/Plastics/Composites,"24,097.87","4,284.63","512,231.54",1.80E-01,"189,895.06","46,684,012.32","14,571,924.10","32,095,291.80","3,166,970.24",15.4827233
+Thermal and Moisture Protection,1.47,0.23,404.19,1.49E-08,27.22,"17,367.56","15,344.88","2,004.09",465.06,0.012217057
+Openings and Glazing,"2,731.38",159.56,"343,450.88",3.80E-05,"35,981.16","6,492,336.52","5,124,636.08","1,382,503.88","263,155.03",10.38115486
+Finishes,"1,709.41",125.87,"331,864.24",6.91E-03,"26,423.72","5,711,828.92","4,883,564.86","834,245.49","677,905.48",10.03093679
+,,,"3,308,407.25",,,,,,,

@@ -1,0 +1,6 @@
+﻿Row Labels,Sum of Acidification Potential Total (kgSO2eq),Sum of Eutrophication Potential Total (kgNeq),Sum of Global Warming Potential Total (kgCO2eq),Sum of Ozone Depletion Potential Total (CFC-11eq),Sum of Smog Formation Potential Total (kgO3eq),Sum of Primary Energy Demand Total (MJ),Sum of Non-renewable Energy Demand Total (MJ),Sum of Renewable Energy Demand Total (MJ),Sum of Mass Total (kg)
+[A1-A3] Product,"24,233.29","1,236.12","-2,088,116.57",2.00E-01,"326,362.94","85,228,683.44","43,666,364.09","41,579,571.61","10,289,011.57"
+[A4] Transportation,494.41,40.26,"106,697.82",3.65E-09,"16,336.88","1,551,612.95","1,514,483.67","37,520.11",
+[B2-B5] Maintenance and Replacement,872.73,45.31,"103,512.34",1.50E-05,"11,182.15","1,677,569.36","1,503,472.68","178,617.05","83,584.06"
+[C2-C4] End of Life,"14,983.43","3,734.82","4,009,955.11",6.37E-08,"62,288.01","4,680,292.55","4,386,578.89","295,732.67",
+[D] Module D,"-3,066.21",-120.63,"151,895.47",2.53E-04,"-38,265.50","-16,697,954.73","-10,330,105.36","-6,399,747.01",
